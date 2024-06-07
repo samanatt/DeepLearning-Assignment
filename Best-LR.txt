@@ -1,0 +1,7 @@
+fasion dataset:
+best lr: 4.0000e-05
+
+Hoda dataset:
+best Lr = 1e-5 - 1e-7 
+
+
